@@ -61,7 +61,7 @@ encriptar.addEventListener('click', () => {
 		};
 		remplace(encript(texto));
 	} else {
-		alert color = red("Ingrese texto para encriptar ");
+		alert("Ingrese texto para encriptar ");
 		
 		reset();
 	};
