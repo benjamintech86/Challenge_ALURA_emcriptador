@@ -61,7 +61,7 @@ encriptar.addEventListener('click', () => {
 		};
 		remplace(encript(texto));
 	} else {
-		alert("Ingrese texto para encriptar ");
+		alert("poner el texto antes de presionar pliss");
 		
 		reset();
 	};
